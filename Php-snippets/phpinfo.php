@@ -1,1 +1,4 @@
-<?php phpinfo(); ?>
+<?php
+  // PHP server information 
+  phpinfo(); 
+?>
